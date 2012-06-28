@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[AdMaster Git Quiz]]></title>
+  <link href="http://AdMaster.github.com/git-quiz/atom.xml" rel="self"/>
+  <link href="http://AdMaster.github.com/git-quiz/"/>
+  <updated>2012-06-28T16:47:35+08:00</updated>
+  <id>http://AdMaster.github.com/git-quiz/</id>
+  <author>
+    <name><![CDATA[Mars Cheng]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
