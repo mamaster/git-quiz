@@ -1,0 +1,19 @@
+$ git remote show origin
+Enter passphrase for key '/c/Users/Calary/.ssh/id_rsa':
+* remote origin
+  Fetch URL: git@github.com:AdMaster/git-quiz.git
+  Push  URL: git@github.com:AdMaster/git-quiz.git
+  HEAD branch: gh-pages
+  Remote branches:
+    anlei            new (next fetch will store in remotes/origin)
+    gh-pages         tracked
+    master           tracked
+    new-zhangjinsong tracked
+    wukaiyu          new (next fetch will store in remotes/origin)
+  Local branches configured for 'git pull':
+    gh-pages merges with remote gh-pages
+    master   merges with remote master
+  Local refs configured for 'git push':
+    gh-pages         pushes to gh-pages         (local out of date)
+    master           pushes to master           (up to date)
+    new-zhangjinsong pushes to new-zhangjinsong (up to date)
