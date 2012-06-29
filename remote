@@ -1,0 +1,21 @@
+
+rigin
+  Fetch URL: git@github.com:AdMaster/git-quiz.git
+  Push  URL: git@github.com:AdMaster/git-quiz.git
+  HEAD branch: gh-pages
+  Remote branches:
+    anlei            tracked
+    gh-pages         tracked
+    master           tracked
+    new-wukaiyu      tracked
+    new-zhangjinsong tracked
+    wukaiyu          tracked
+  Local branches configured for 'git pull':
+    gh-pages         merges with remote gh-pages
+    new-zhangjinsong merges with remote new-zhangjinsong
+    wukaiyu          merges with remote wukaiyu
+  Local refs configured for 'git push':
+    anlei            pushes to anlei            (up to date)
+    gh-pages         pushes to gh-pages         (up to date)
+    new-zhangjinsong pushes to new-zhangjinsong (up to date)
+    wukaiyu          pushes to wukaiyu          (up to date)
