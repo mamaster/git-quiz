@@ -27,3 +27,8 @@ Author: Mars Cheng <kidrane@gmail.com>
 Date:   Thu Jun 28 16:44:18 2012 +0800
 
     Octopress init
+commit b90e735f4b5a5408cca28e28d444945517da53fe
+Author: Kaiyu Wu <wukaiyu@admaster.com.cn>
+Date:   Fri Jun 29 13:11:11 2012 +0800
+
+    add gitlog and gitdiff
