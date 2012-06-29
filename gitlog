@@ -3,5 +3,5 @@ git config --global user.name anlei@admaster.com.cn
 touch empty
 git add empty
 git commit -m "提交empty文件"
-
+git checkout -b new-anlei
 
