@@ -1,0 +1,21 @@
+john@LIZ-HP ~/git-quiz (new-lihaosong)
+$ git remote show origin
+* remote origin
+  Fetch URL: git@github.com:AdMaster/git-quiz.git
+  Push  URL: git@github.com:AdMaster/git-quiz.git
+  HEAD branch: gh-pages
+  Remote branches:
+    anlei            tracked
+    gh-pages         tracked
+    lihaosong        tracked
+    master           tracked
+    new-anlei        tracked
+    new-wukaiyu      tracked
+    new-zhangjinsong tracked
+    wukaiyu          tracked
+  Local branch configured for 'git pull':
+    gh-pages merges with remote gh-pages
+  Local refs configured for 'git push':
+    gh-pages  pushes to gh-pages  (local out of date)
+    lihaosong pushes to lihaosong (up to date)
+
