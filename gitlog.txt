@@ -24,3 +24,10 @@ Date:   Thu Jun 28 16:44:18 2012 +0800
     Octopress init
 
 john@LIZ-HP ~/git-quiz (lihaosong)
+
+$ git log
+commit b82610720fc04d9af9e10899f4d37daf2f89c317
+Author: Haosong Li <lihaosong@admaster.com.cn>
+Date:   Fri Jun 29 13:17:49 2012 +0800
+
+    file gitlog and gitdiff
