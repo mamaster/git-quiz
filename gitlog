@@ -1,0 +1,6 @@
+git config user.name "Jinsong Zhang"
+git config usre.email "zhangjinsong@admaster.com.cn"
+vim empty
+git add empty
+git commit -m "......"
+
