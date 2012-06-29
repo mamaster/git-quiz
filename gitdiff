@@ -1,0 +1,6 @@
+t a/empty b/empty
+index e69de29..8d0e412 100644
+--- a/empty
++++ b/empty
+@@ -0,0 +1 @@
++hello git
