@@ -1,0 +1,29 @@
+commit 015463a7e8d580dabcdf476fdd20f9719a8d08e7
+Author: Kaiyu Wu <wukaiyu@admaster.com.cn>
+Date:   Fri Jun 29 13:06:11 2012 +0800
+
+    add file empty
+
+commit 495927224b8eb411457b1f45f6e5645e1af96ced
+Author: Mars Cheng <kidrane@gmail.com>
+Date:   Fri Jun 29 13:01:24 2012 +0800
+
+    Site updated at 2012-06-29 05:01:24 UTC
+
+commit 1fc72558517ca5153fd9f4181a937c902904f7ad
+Author: Mars Cheng <kidrane@gmail.com>
+Date:   Thu Jun 28 16:48:47 2012 +0800
+
+    Site updated at 2012-06-28 08:48:47 UTC
+
+commit 940ccc309d432bb4bea6dd7f2bc6b4297feea17b
+Author: Mars Cheng <kidrane@gmail.com>
+Date:   Thu Jun 28 16:44:58 2012 +0800
+
+    Site updated at 2012-06-28 08:44:58 UTC
+
+commit df3d9bea16d20ab77c39905f4cae73b85510df10
+Author: Mars Cheng <kidrane@gmail.com>
+Date:   Thu Jun 28 16:44:18 2012 +0800
+
+    Octopress init
