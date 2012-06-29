@@ -1,0 +1,26 @@
+$ git log
+commit 631ba426ee312138c0f07756c4540d8b370ab241
+Author: Haosong Li <lihaosong@admaster.com.cn>
+Date:   Fri Jun 29 13:08:53 2012 +0800
+
+    commit file 'empty'
+
+commit 1fc72558517ca5153fd9f4181a937c902904f7ad
+Author: Mars Cheng <kidrane@gmail.com>
+Date:   Thu Jun 28 16:48:47 2012 +0800
+
+    Site updated at 2012-06-28 08:48:47 UTC
+
+commit 940ccc309d432bb4bea6dd7f2bc6b4297feea17b
+Author: Mars Cheng <kidrane@gmail.com>
+Date:   Thu Jun 28 16:44:58 2012 +0800
+
+    Site updated at 2012-06-28 08:44:58 UTC
+
+commit df3d9bea16d20ab77c39905f4cae73b85510df10
+Author: Mars Cheng <kidrane@gmail.com>
+Date:   Thu Jun 28 16:44:18 2012 +0800
+
+    Octopress init
+
+john@LIZ-HP ~/git-quiz (lihaosong)
