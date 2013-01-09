@@ -3,3 +3,13 @@
 %emacs empty
 %git add empty
 %git commit -m "first version"
+
+
+% git branch new-liufang
+% git branch
+  gh-pages
+* liufang
+  new-liufang
+% git checkout new-liufang
+Switched to branch 'new-liufang'
+% 
