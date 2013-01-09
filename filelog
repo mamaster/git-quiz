@@ -1,0 +1,5 @@
+%git config user.name "Liu-Fang"
+%git config user.email liufang@admaster.com.cn
+%emacs empty
+%git add empty
+%git commit -m "first version"
