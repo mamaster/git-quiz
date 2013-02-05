@@ -17,3 +17,17 @@ Date:   Fri Jun 29 11:18:00 2012 +0800
 
     notification before quiz
 
+Wentao@ICEWENT /C/Users/Wentao/git/quiz (haowentao)
+$ git branch new-haowentao
+
+Wentao@ICEWENT /C/Users/Wentao/git/quiz (haowentao)
+$ git checkout new-haowentao
+Switched to branch 'new-haowentao'
+
+Wentao@ICEWENT /C/Users/Wentao/git/quiz (haowentao)
+$ git branch new-haowentao
+
+Wentao@ICEWENT /C/Users/Wentao/git/quiz (haowentao)
+$ git checkout new-haowentao
+Switched to branch 'new-haowentao'
+
