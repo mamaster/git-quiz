@@ -1,0 +1,24 @@
+new file mode 100644
+index 0000000..c1b3ce6
+--- /dev/null
++++ b/gitlog
+@@ -0,0 +1,19 @@
++$ git log -3
++commit 4debe313b356ee94b0f1665a50583602aff868a4
++Author: mamaster <haowentao@admaster.com.cn>
++Date:   Tue Feb 5 13:04:50 2013 +0800
++
++    add
++
++commit d1e5d5bfb261a9cbc8525ffe8d3be7d4ecd51f61
++Author: Mars Cheng <kidrane@gmail.com>
++Date:   Fri Jun 29 12:21:31 2012 +0800
++
++    add quiz address
++
++commit 5fd3a942213c1d4c6a56a4b366fd88c9dd9da77d
++Author: Mars Cheng <kidrane@gmail.com>
++Date:   Fri Jun 29 11:18:00 2012 +0800
++
++    notification before quiz
+
